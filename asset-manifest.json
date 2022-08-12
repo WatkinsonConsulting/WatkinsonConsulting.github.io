@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.b07c3d6b.css",
+    "main.css": "/static/css/main.c882fa76.css",
     "main.js": "/static/js/main.f2d81731.js",
     "static/js/787.5e7fcb2f.chunk.js": "/static/js/787.5e7fcb2f.chunk.js",
     "static/media/chart1.png": "/static/media/chart1.3c9821aab6cc52889836.png",
@@ -13,12 +13,12 @@
     "static/media/heading.png": "/static/media/heading.96a132496f90831821b3.png",
     "static/media/windmills.jpg": "/static/media/windmills.95a1510c6dd739a38f9a.jpg",
     "index.html": "/index.html",
-    "main.b07c3d6b.css.map": "/static/css/main.b07c3d6b.css.map",
+    "main.c882fa76.css.map": "/static/css/main.c882fa76.css.map",
     "main.f2d81731.js.map": "/static/js/main.f2d81731.js.map",
     "787.5e7fcb2f.chunk.js.map": "/static/js/787.5e7fcb2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b07c3d6b.css",
+    "static/css/main.c882fa76.css",
     "static/js/main.f2d81731.js"
   ]
 }
